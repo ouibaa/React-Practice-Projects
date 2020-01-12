@@ -1,0 +1,19 @@
+.button {
+  border: 1px black solid;
+  width: 100%;
+  height: 120px;
+  place-self: stretch;
+  font-size: 50px;
+  font-weight: bold;
+  margin: auto;
+  background-color: lightgray;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px;
+}
+.wide {
+  grid-column: 1 / 3;
+}
+.orange {
+  background-color: orange;
+}

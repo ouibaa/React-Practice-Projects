@@ -1,0 +1,7 @@
+.Button-panel {
+  display: grid;
+  grid-template-columns: repeat(4, 24.9%);
+  place-items: stretch;
+  place-content: center;
+  grid-auto-flow: row;
+}
